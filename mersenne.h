@@ -1,3 +1,8 @@
+/*This is a Mersenne Twist Library. It comes from M.Matsumoto and Takuji Nishimura's
+  paper "Mersenne Twist: a 623-dimensionally equidistriduted uniform number generator"
+  Published in ACM Transactions on Modeling and Computer Simulations: Special Issue
+  on Uniform Random Number Generators in 1998*/
+
 #include <stdio.h>
 
 /*Period Parameters*/
